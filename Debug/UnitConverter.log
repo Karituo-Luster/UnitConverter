@@ -1,0 +1,4 @@
+﻿  ConverterSource.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  ConverterSource.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  UnitConverter.vcxproj -> F:\C++\UnitConverter_v1.0\Debug\UnitConverter.exe
